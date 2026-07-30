@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:312e81,45:6d28d9,100:a855f7&height=230&section=header&text=Jesús%20Alfonso%20Miranda%20Ortega&fontSize=38&fontColor=ffffff&fontAlignY=36&desc=AI%20%7C%20Data%20%7C%20Product%20Engineering&descSize=18&descAlignY=56&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:312e81,45:6d28d9,100:a855f7&height=230&section=header&text=Jesús%20Alfonso%20Miranda%20Ortega&fontSize=38&fontColor=ffffff&fontAlignY=36&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Applied%20AI%20%26%20ML&descSize=18&descAlignY=56&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+reproducible+AI+and+data+products;Engineering+analytics+from+raw+data+to+decisions;Connecting+machine+learning%2C+product%2C+and+business+impact)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Turning+complex+data+into+business+decisions;Building+dashboards%2C+models%2C+and+actionable+insights;Connecting+analytics%2C+AI%2C+and+commercial+strategy)](https://git.io/typing-svg)
 
 [![Tecnológico de Monterrey](https://img.shields.io/badge/Tecnológico_de_Monterrey-Marketing_%2B_Business_Intelligence-4F46E5?style=flat-square&logo=academia&logoColor=white)](https://tec.mx/)
 [![University of Chicago](https://img.shields.io/badge/University_of_Chicago-ML_for_Finance-6D28D9?style=flat-square&logo=academia&logoColor=white)](https://www.uchicago.edu/)
@@ -24,18 +24,18 @@
 
 ## About
 
-I build **AI, data, and software products** that turn complex information into reliable decisions. My work spans reproducible machine-learning systems, automated ETL and data-quality workflows, full-stack web applications, executive analytics, and product strategy.
+I am a **Data Analyst and Business Intelligence professional in training** focused on turning complex data into clear, actionable business decisions. My work spans data preparation, KPI design, executive dashboards, statistical analysis, predictive modeling, machine learning, CRM analytics, and process automation.
 
-As a dual-degree student in **Marketing and Business Intelligence at Tecnológico de Monterrey**, I bring an engineering mindset to business problems: define the decision, establish trustworthy data contracts, build the system end to end, validate performance, and communicate measurable impact. I have applied this approach across banking operations, supply-chain analytics, financial machine learning, healthcare service research, CRM, and AI-enabled education.
+As a dual-degree student in **Marketing and Business Intelligence at Tecnológico de Monterrey**, I combine quantitative analysis with commercial and strategic context. My approach is to understand the decision first, build a trustworthy analytical process, validate the evidence, and communicate insights in a way that stakeholders can act on.
 
-- **Software engineering:** typed applications, modular architecture, automated testing, API integration, CI workflows, and maintainable documentation.
-- **AI / ML:** supervised learning, ensemble models, calibration, anomaly detection, clustering, forecasting, and human-in-the-loop decision systems.
-- **Full stack:** React, Next.js, TypeScript, Python, Firebase, PostgreSQL, REST APIs, and cloud deployments.
-- **Product engineering:** user-centered discovery, KPI design, experimentation, security-by-design, and business-value translation.
+- **Data Analysis & BI:** Python, SQL, R, Power BI, Tableau, Looker, SPSS, KPI frameworks, and executive reporting.
+- **AI / ML:** supervised learning, ensemble models, probability calibration, clustering, forecasting, anomaly detection, and human-in-the-loop analysis.
+- **Business Analytics:** CRM and customer analytics, supply-chain KPIs, service-quality diagnostics, segmentation, CLV, and strategic recommendations.
+- **Technical Delivery:** reproducible data pipelines, ETL automation, data validation, APIs, dashboards, and documented end-to-end analytical workflows.
 
 ### Open To
 
-AI engineering, data science, analytics engineering, product engineering, open-source collaboration, and high-impact projects at the intersection of technology and business.
+Data Analyst, Business Intelligence Analyst, Junior Data Scientist, AI/ML Analyst, analytics consulting, and high-impact projects connecting data with business strategy.
 
 ---
 
@@ -43,44 +43,52 @@ AI engineering, data science, analytics engineering, product engineering, open-s
 
 <div align="center">
 
-### Languages
+### Data & Querying
 
-[![Languages](https://skillicons.dev/icons?i=python,r,ts,js,html,css,sql&theme=dark)](https://skillicons.dev)
+[![Data and Querying](https://skillicons.dev/icons?i=python,r,postgres&theme=dark)](https://skillicons.dev)
 
-### Frontend
-
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark)](https://skillicons.dev)
-
-### Backend & Databases
-
-[![Backend and Databases](https://skillicons.dev/icons?i=py,fastapi,postgres,firebase&theme=dark)](https://skillicons.dev)
-
-### Cloud, DevOps & Tooling
-
-[![Cloud DevOps and Tooling](https://skillicons.dev/icons?i=vercel,githubactions,git,github,vscode,figma&theme=dark)](https://skillicons.dev)
+### Business Intelligence & Analytics
 
 ![Power BI](https://img.shields.io/badge/Power_BI-312E81?style=flat-square&logo=powerbi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-4338CA?style=flat-square&logo=tableau&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-4F46E5?style=flat-square&logo=jupyter&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-6D28D9?style=flat-square&logo=salesforce&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4F46E5?style=flat-square&logo=looker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-6366F1?style=flat-square&logo=jupyter&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-7C3AED?style=flat-square&logo=ibm&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-8B5CF6?style=flat-square&logo=salesforce&logoColor=white)
+
+### AI / ML & Data Workflows
+
+[![AI ML and Data Workflows](https://skillicons.dev/icons?i=py,sklearn,fastapi,postgres&theme=dark)](https://skillicons.dev)
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-312E81?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-4338CA?style=flat-square)
+![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-4F46E5?style=flat-square)
+![ETL](https://img.shields.io/badge/ETL_%26_Data_Quality-6D28D9?style=flat-square)
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-7C3AED?style=flat-square)
+
+### Development & Automation
+
+[![Development and Automation](https://skillicons.dev/icons?i=ts,react,nextjs,git,githubactions,vscode&theme=dark)](https://skillicons.dev)
+
 ![n8n](https://img.shields.io/badge/n8n-7C3AED?style=flat-square&logo=n8n&logoColor=white)
-![SPSS](https://img.shields.io/badge/SPSS-8B5CF6?style=flat-square&logo=ibm&logoColor=white)
+![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-8B5CF6?style=flat-square)
 
 </div>
 
 ---
 
-## AI / ML Expertise
+## Data, BI & AI / ML Expertise
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
+| Business Intelligence | Advanced applied | KPI frameworks, executive dashboards, Power BI, Tableau, Looker, data storytelling |
+| Data & Statistical Analysis | Advanced applied | Data cleaning, regression, clustering, factor analysis, reliability analysis, hypothesis testing |
 | Applied Machine Learning | Advanced applied | XGBoost, logistic regression, decision trees, ensemble learning, feature engineering, temporal validation |
 | Probabilistic Modeling | Applied | Elo systems, Dixon–Coles models, calibrated probabilities, Brier/RPS and log-loss evaluation |
 | Simulation & Forecasting | Advanced applied | Vectorized Monte Carlo simulation, scenario analysis, demand and financial trend modeling |
-| Data Engineering | Advanced applied | ETL automation, strict schema contracts, data validation, immutable raw layers, SHA-256 provenance |
-| Statistical Analytics | Advanced applied | Regression, clustering, factor analysis, reliability analysis, SERVQUAL/SERVPERF, hypothesis testing |
-| Responsible AI Systems | Applied | Evidence-based scoring, traceability, red flags, human-in-the-loop review, escalation design |
-| AI Product Engineering | Applied | Model-backed APIs, role-based analytics, MVP architecture, decision trees, workflow automation |
+| Data Quality & Automation | Advanced applied | ETL automation, schema validation, data provenance, anomaly detection, reproducible workflows |
+| CRM & Business Analytics | Advanced applied | Segmentation, CLV, customer journeys, SERVQUAL/SERVPERF, supply-chain and commercial KPIs |
+| Responsible AI Analysis | Applied | Evidence-based scoring, traceability, red flags, human review, and escalation logic |
 
 ---
 
@@ -107,42 +115,42 @@ The system uses strict, coercing Pandera contracts, canonical team identities, d
 </details>
 
 <details>
-<summary><strong>Personal Portfolio — Premium Product Engineering Experience</strong></summary>
+<summary><strong>CNH Industrial — Supply Chain Risk & Inventory Analytics</strong></summary>
 
 <br>
 
-A responsive portfolio engineered as a modern product surface for communicating technical work, business impact, and professional positioning.
+An applied Business Intelligence project developed with CNH Industrial to improve decision visibility for the Querétaro spare-parts warehouse across Case and New Holland operations.
 
 | Dimension | Details |
 |:---|:---|
-| **Stack** | Next.js 14 · React 18 · TypeScript · Tailwind CSS · Framer Motion · Jest |
-| **Scale** | Modular multi-section portfolio with responsive interaction and reusable components |
-| **Performance** | Next.js production build, optimized rendering, component-level architecture |
-| **Security** | Safe external-link handling and minimized client-side surface |
-| **Impact** | Centralized recruiter-facing narrative across AI, analytics, engineering, and leadership |
-| **Repository** | [View source](https://github.com/a01769572-art/mi-portafolio) · [Live product](https://mi-portafolio-xi-ten.vercel.app) |
+| **Stack** | Oracle ERP data · Power BI · Data Consolidation · ABC Analysis · Forecasting |
+| **Scale** | Global supply-chain context · lead times up to 180 days · multi-brand spare-parts inventory |
+| **Performance** | Monitored 2.6–2.8 inventory turns against a target of 3 annual turns |
+| **Risk** | Quantified 22% obsolescence exposure and the service-level vs. working-capital trade-off |
+| **Impact** | Dynamic KPI dashboards and quantified recommendations for inventory decision-making |
+| **Repository** | Private case · executive walkthrough available through [email](mailto:jesusm.12@yahoo.com) |
 
-The project treats personal branding as a product problem: clear information architecture, deliberate motion, accessible interaction, tested components, and a direct path from technical evidence to professional contact.
+The analysis combined ERP data preparation, risk indicators, ABC classification, inventory rotation, service-level tracking, and forecasting alternatives to support decisions in a low-volume, high-variability environment.
 
 </details>
 
 <details>
-<summary><strong>Intrasiap E-Commerce — Typed Full-Stack Commerce Frontend</strong></summary>
+<summary><strong>Medical Impact — Healthcare Service Quality Analytics</strong></summary>
 
 <br>
 
-A modern commerce application built around typed UI architecture, payments integration, authentication/data services, and responsive product journeys.
+An applied analytics and consulting project for a Mexican healthcare NGO, using 427 patient responses to identify the operational and human factors that drive perceived service quality.
 
 | Dimension | Details |
 |:---|:---|
-| **Stack** | React 19 · TypeScript · Vite · Tailwind CSS · Firebase · Stripe · React Router |
-| **Scale** | Componentized catalog, navigation, commerce, and payment flows |
-| **Performance** | Vite production bundling, typed builds, linting, fast client rendering |
-| **Security** | Stripe-hosted payment primitives, Firebase services, environment-based configuration |
-| **Impact** | Converts a B2B technology offering into an accessible digital commerce experience |
-| **Repository** | [View source](https://github.com/a01769572-art/intrasiap-ecommerce) |
+| **Stack** | SPSS · Jamovi · Looker Studio · SERVPERF/SERVQUAL · Regression · Factor Analysis |
+| **Scale** | 427 observations · 20 Likert items · rural and high-need communities |
+| **Performance** | Durbin–Watson 1.83 · VIF 1.48–2.02 · statistically significant operational and trust dimensions |
+| **Governance** | Ethical data treatment, retained contextual outliers, transparent assumption validation |
+| **Impact** | Regional winner and national finalist with an executive dashboard and actionable service KPIs |
+| **Repository** | Private academic case · analytical walkthrough available through [email](mailto:jesusm.12@yahoo.com) |
 
-The application combines strict TypeScript builds with reusable React components and established platform services for payments and data, reducing implementation risk while preserving product flexibility.
+The reconstructed three-dimension model provided stronger actionable insight than the original framework, identifying operational conditions and clinical trust as significant predictors of overall satisfaction.
 
 </details>
 
@@ -174,7 +182,7 @@ EmotIA was designed around a critical product principle: AI should surface weak 
 
 **June 2026 — Present**
 
-Engineering automation and AI-assisted decision workflows for data-intensive banking operations.
+Applying data analysis, ETL automation, and AI-assisted decision logic to data-intensive banking operations.
 
 - Designed and executed seven low-code ETL automation flows for transformation, cleansing, and validation, reducing analysts' manual processing time to approximately 5% of the previous effort.
 - Contributed to an AI proof of concept for commercial-relationship assessment during onboarding, centered on evidence, scoring, traceability, and Financial Crime escalation.
@@ -245,7 +253,7 @@ Led a cross-functional certification initiative for a technology company seeking
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Engineering_Portfolio-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a01769572-art)
+[![GitHub](https://img.shields.io/badge/GitHub-Data_%26_BI_Portfolio-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/a01769572-art)
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-Profile_Not_Public-4338CA?style=for-the-badge&logo=leetcode&logoColor=white)
 ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile_Not_Public-4F46E5?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
@@ -304,24 +312,25 @@ Led a cross-functional certification initiative for a technology company seeking
 
 ```yaml
 learning:
-  - production machine learning and evaluation
+  - advanced analytics and machine learning evaluation
   - banking, markets, and financial systems
-  - scalable data and AI product architecture
+  - executive data storytelling and BI strategy
 
 building:
-  - reproducible forecasting systems
+  - decision-oriented dashboards and KPI frameworks
+  - reproducible forecasting and predictive models
   - automated ETL and data-quality workflows
-  - full-stack analytics products
 
 exploring:
-  - responsible LLM decision support
+  - applied AI for business decision support
   - human-in-the-loop AI operations
   - quantitative finance and market intelligence
 
 open_to:
-  - AI and data engineering collaborations
-  - product engineering opportunities
-  - open-source projects with measurable impact
+  - Data Analyst opportunities
+  - Business Intelligence Analyst opportunities
+  - Junior Data Scientist and AI/ML Analyst roles
+  - analytics projects with measurable business impact
 ```
 
 ---
@@ -341,7 +350,7 @@ open_to:
 
 <div align="center">
 
-*"Engineering is where trustworthy data, thoughtful products, and measurable impact become one system."*
+*"Data becomes valuable when it improves a decision."*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:312e81,45:6d28d9,100:a855f7&height=120&section=footer)
 
