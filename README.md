@@ -294,7 +294,7 @@ Led a cross-functional certification initiative for a technology company seeking
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/a01769572-art/a01769572-art/output/github-contribution-grid-snake-dark.svg)
+![Contribution Snake](https://raw.githubusercontent.com/a01769572-art/a01769572-art/gh-pages/github-contribution-grid-snake-dark.svg)
 
 </div>
 
