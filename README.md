@@ -28,7 +28,7 @@ I am a **Data Analyst and Business Intelligence professional in training** focus
 
 As a dual-degree student in **Marketing and Business Intelligence at Tecnológico de Monterrey**, I combine quantitative analysis with commercial and strategic context. My approach is to understand the decision first, build a trustworthy analytical process, validate the evidence, and communicate insights in a way that stakeholders can act on.
 
-- **Data Analysis & BI:** Python, SQL, R, Power BI, Tableau, Looker, SPSS, KPI frameworks, and executive reporting.
+- **Data Analysis & BI:** Python, SQL, R, MySQL, PostgreSQL, Power BI, Tableau, Looker, SPSS, KPI frameworks, and executive reporting.
 - **AI / ML:** supervised learning, ensemble models, probability calibration, clustering, forecasting, anomaly detection, and human-in-the-loop analysis.
 - **Business Analytics:** CRM and customer analytics, supply-chain KPIs, service-quality diagnostics, segmentation, CLV, and strategic recommendations.
 - **Technical Delivery:** reproducible data pipelines, ETL automation, data validation, APIs, dashboards, and documented end-to-end analytical workflows.
@@ -45,7 +45,7 @@ Data Analyst, Business Intelligence Analyst, Junior Data Scientist, AI/ML Analys
 
 ### Data & Querying
 
-[![Data and Querying](https://skillicons.dev/icons?i=python,r,postgres&theme=dark)](https://skillicons.dev)
+[![Data and Querying](https://skillicons.dev/icons?i=python,r,mysql,postgres&theme=dark)](https://skillicons.dev)
 
 ### Business Intelligence & Analytics
 
