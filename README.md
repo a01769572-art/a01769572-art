@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:312e81,45:6d28d9,100:a855f7&height=230&section=header&text=Jesús%20Alfonso%20Miranda%20Ortega&fontSize=38&fontColor=ffffff&fontAlignY=36&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Applied%20AI%20%26%20ML&descSize=18&descAlignY=56&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:312e81,45:6d28d9,100:a855f7&height=230&section=header&text=Jesús%20Alfonso%20Miranda%20Ortega&fontSize=38&fontColor=ffffff&fontAlignY=36&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%7C%20Applied%20AI%20and%20ML&descSize=18&descAlignY=56&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Turning+complex+data+into+business+decisions;Building+dashboards%2C+models%2C+and+actionable+insights;Connecting+analytics%2C+AI%2C+and+commercial+strategy)](https://git.io/typing-svg)
 
