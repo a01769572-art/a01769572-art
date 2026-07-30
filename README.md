@@ -260,21 +260,21 @@ Led a cross-functional certification initiative for a technology company seeking
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a01769572-art&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=7C3AED&include_all_commits=true&count_private=false)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a01769572-art&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=a01769572-art&hide_border=true&background=0D1117&ring=7C3AED&fire=A855F7&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E)](https://git.io/streak-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a01769572-art&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a01769572-art&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Repositories by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a01769572-art&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
 ---
 
-## GitHub Trophies
+## GitHub Highlights
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=a01769572-art&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=a01769572-art&theme=tokyonight&utcOffset=-6)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Most Committed Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=a01769572-art&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
